@@ -22,6 +22,7 @@ I'm a full-stack developer from Thimphu, Bhutan. I build microservice back ends 
 
 | Project | Description | Stack |
 |---|---|---|
+| **EMIS** <sub>(21 Tech)</sub> | Education management platform for Bhutan: microservices for authentication and permissions, results processing and admin dashboards | NestJS, Next.js, PostgreSQL, Redis, NATS |
 | [Yolo Bhutan](https://github.com/Anup-gurung/yoloFrontend) | E-commerce platform connecting local artisans with global customers | React, Node.js, MongoDB |
 | [Gyalsung Academy](https://nhdcl-frontend.onrender.com/) | Web app for managing Gyalsung Academy, built at NHDCL | React, REST API |
 | [DrukCraft](https://github.com/RinchenDrukcraft/DrukCraftFrontend) | E-commerce site for national and international products | TypeScript, JavaScript |
