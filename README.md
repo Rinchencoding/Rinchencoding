@@ -20,26 +20,6 @@
 
 ---
 
-## 👨‍💻 About me
-
-I'm a full-stack developer from Bhutan who likes building software end to end, from the database schema to the last pixel of the UI. I work on **microservice back ends** and **modern web front ends**, with a focus on systems that are secure, scalable and pleasant to use.
-
-- 💼 **Full-Stack Developer at 21 Tech**: building NestJS microservices, PostgreSQL / Redis / NATS back ends and Next.js dashboards
-- 🎓 **Bachelor of Computer Science (Full Stack Development)** at Gyalpozhing College of Information Technology (GCIT)
-- 🎨 Google-certified in UX Design, so I care about clear user journeys as much as clean APIs
-- ☁️ Growing toward cloud-native architecture and large-scale system design
-
-### 🧭 My journey
-
-| When | Milestone |
-|---|---|
-| **2022** | Started my Computer Science degree at **GCIT**, Thimphu |
-| **2025** | Full-Stack Developer at **NHDCL**: built web apps on a microservice architecture with React and Spring Boot |
-| **2026** | Founding partner & full-stack developer of **NorThuen**, a smart logistics app |
-| **2026** | Joined **21 Tech** as a Full-Stack Developer |
-
----
-
 ## 🛠️ Tech stack
 
 **Languages**
