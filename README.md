@@ -12,7 +12,7 @@
 
 <br>
 
-I'm a full-stack developer from Thimphu, Bhutan. I build microservice back ends with **NestJS** and **Spring Boot**, and web front ends with **React** and **Next.js**. I'm studying Computer Science at **GCIT** and work as a developer at **21 Tech**.
+I'm a Software Engineer from Thimphu, Bhutan. I build microservice back ends with **NestJS** and **Spring Boot**, and web front ends with **React** and **Next.js**. I'm studying Computer Science at **GCIT** and work as a developer at **21 Tech**.
 
 ### Tech stack
 
